@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3.9_App1</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+    <string name="button4">Button 4</string>
+    <string name="text2">Text 2</string>
+    <string name="developedBy">Developed by Joshua Enthöfer on 01.02.21</string>
+</resources>
